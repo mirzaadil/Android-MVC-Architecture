@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "325471022703",
+    "firebase_url": "https://awok-8f105.firebaseio.com",
+    "project_id": "awok-8f105",
+    "storage_bucket": "awok-8f105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325471022703:android:84b594e8f5467ae7",
+        "android_client_info": {
+          "package_name": "com.mirzaadil.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325471022703-8015d4vk677n5bmhtefca1m6rs76roia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADBk-s64Tp6Y79CaUSqFZ6zsbJxsDa05U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

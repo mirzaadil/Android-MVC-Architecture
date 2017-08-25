@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/top_movies"
+            android:title="Top Rated"
+            android:icon="@drawable/ic_top_movies_star"
+
+
+            />
+        <item
+            android:id="@+id/poular_movies"
+            android:title="Popular"
+            android:icon="@drawable/ic_popular_24dp"
+            />
+        <item
+            android:id="@+id/search_movies"
+            android:title="Search Movie"
+            android:icon="@drawable/ic_search_24dp"
+            />
+
+
+    </group>
+</menu>

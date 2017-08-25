@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="Api_Key">fb99b22b74b93b671576452bc3807e59</string>
+    <string name="top_rated">http://api.themoviedb.org/3/movie/top_rated?api_key=fb99b22b74b93b671576452bc3807e59</string>
+    <string name="popular">https://api.themoviedb.org/3/movie/popular?api_key=fb99b22b74b93b671576452bc3807e59</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <!--<string name="search">https://api.themoviedb.org/3/search/movie?api_key=fb99b22b74b93b671576452bc3807e59&query=G-Force</string>-->
+</resources>

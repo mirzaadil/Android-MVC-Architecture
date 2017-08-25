@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\8c3ba2a9a74e6d06af3612b246fec9ba10a3d9e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\workstation_arslan\Task\app\build\intermediates\pre-dexed\debug\classes_d8759568e4c9b209931b3593131f53057ce55f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\c6158664d2bf83d4e86b1e4c05c657f335d4cbf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\workstation_arslan\Task\app\build\intermediates\pre-dexed\debug\classes_5549fc41a8f6bdd00bf88a1135a12cdcba88288b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\80f97c10e0877464ade310aeed044d63587cb387\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\workstation_arslan\Task\app\build\intermediates\pre-dexed\debug\classes_e70fa43e5ad37343a918d619536792028416cd83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\78921a368e395c43cd44a559ac2ed29de17b69e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="F:\workstation_arslan\Task\app\build\intermediates\pre-dexed\debug\classes_6323de5257791a64099e66c966ae04517c466edb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\388fc8d7d632805e7e97a4d972f08f203a180775\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\workstation_arslan\Task\app\build\intermediates\pre-dexed\debug\classes_248e3ff88efa93f1e557d1092b2e5574c839dd0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\40de6f39b4a830334a3b97b03823a1e1f87b56b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\workstation_arslan\Task\app\build\intermediates\pre-dexed\debug\classes_d70a97c949475118af3d7062870a439173d72d32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\.android\build-cache\d9e603e73044e6181bfb10d28e367e1557331dcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\workstation_arslan\Task\app\build\intermediates\pre-dexed\debug\classes_92b5263a86fac026b617b73efbd7e86497d5d1b9.jar" />
+    </item>
+
+</items>
